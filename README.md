@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pavan Patel
-- 👀 I’m interested in simply school 
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in going to U.T Austin to be a computer engineer 
+- 🌱 I’m currently trying to get my certificate for CS50AP
 - 📫 @pavanpat3k on instagram or my e-mail pvp0450@gmail.com 
