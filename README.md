@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Pavan Patel
-- 👀 I’m interested in going to U.T Austin to be a computer engineer 
-- 🌱 I’m currently trying to get my certificate for CS50AP
-- 📫 @pavanpat3k on instagram or my e-mail pvp0450@gmail.com 
+- 👀 I'm currently an Electrical & Computer Engineering student at U.T. Austin
+- 🌱 Trying to work on my fellowship at Headstarter
+- 📫 You can contact me using my email: pvp0450@gmail.com
+- :) Hope you're having an amazing day if reading this 
