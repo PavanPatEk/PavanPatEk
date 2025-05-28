@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Pavan Patel
 - 👀 I'm currently an Electrical & Computer Engineering student at U.T. Austin
-- 🌱 Trying to work on my fellowship at Headstarter
 - 📫 You can contact me using my email: pvp0450@gmail.com
-- :) Hope you're having an amazing day especially if you're reading this 
+- :) Hope you're having an amazing day—especially if you're taking the time to read this! 
